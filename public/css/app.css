@@ -1,0 +1,21 @@
+.error {
+    background-color: palevioletred;
+}
+
+
+tr, th, td, table {
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+#content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#emptytable {
+    text-align: center;
+}
